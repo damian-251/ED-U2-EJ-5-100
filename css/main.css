@@ -4,6 +4,11 @@
    Author's custom styles
    ========================================================================== */
 
+html {
+   height: 100px;
+   display: flex;
+}
+
 body {
    width: 70%;
    margin: 0 auto;
